@@ -1,0 +1,48 @@
+================================================================================
+PROJECT PROPOSAL: STRAIT-SHIELD
+Maritime Security Framework for the Strait of Hormuz
+================================================================================
+
+1. EXECUTIVE SUMMARY
+--------------------
+STRAIT-SHIELD is a sovereign maritime intelligence framework designed to monitor, 
+detect, and mitigate asymmetric security threats and commercial navigation risks 
+in the Strait of Hormuz. By fusing high-resolution Synthetic Aperture Radar (SAR) 
+satellite imagery, live AIS transponder feeds, and naval thermal telemetry, the 
+system automatically identifies dark vessels, transponder spoofing, and unauthorized 
+maritime diversions.
+
+2. TOTAL BUDGET & FINANCIAL BREAKDOWN (Total: 7.500.000 EUR)
+------------------------------------------------------------
+* Personnel Costs (36 Months): 3.200.000 EUR
+  - Senior Maritime Security & AI Engineers (60 PM): 1.200.000 EUR
+  - Computer Vision & SAR Satellite Analysts (48 PM): 960.000 EUR
+  - GIS & Hydrographic Mapping Experts (36 PM): 540.000 EUR
+  - Project Management & Scientific Coordination: 500.000 EUR
+
+* Equipment, Compute & Data Feeds: 2.800.000 EUR
+  - High-Resolution Commercial SAR Satellite Data Subscriptions: 1.200.000 EUR
+  - High-Performance Cloud Compute & GPU Clusters: 900.000 EUR
+  - Encrypted Tactical Data Link Subcontracts: 450.000 EUR
+  - Secure Edge Processing Hardware for Naval Patrols: 250.000 EUR
+
+* Operational Testing, Calibration & Dissemination: 800.000 EUR
+  - Gulf Region Field Calibration & Sensor Alignment: 450.000 EUR
+  - International Maritime Organization (IMO) Workshops & Open Access: 350.000 EUR
+
+* Indirect Costs / Overheads: 700.000 EUR
+  - Infrastructure maintenance, security compliance audits, administrative fees.
+
+3. LOGICAL FRAMEWORK MATRIX (LFM)
+---------------------------------
+* Goal: Ensure uninterrupted international energy shipping lanes and enhance maritime domain awareness in choke points.
+* Purpose: Deploy real-time SAR-AIS anomaly detection powered by Gemini AI with <30 second alert latency.
+* Key Outputs:
+  1. Automated Dark Vessel Detection Engine.
+  2. AIS Spoofing & Route Deviation Predictive Model.
+  3. Real-Time Risk Heatmap for Commercial Tankers & Insurers.
+
+4. REAL-WORLD ASSET (RWA) & TOKENOMICS ARCHITECTURE ($SHIELD)
+------------------------------------------------------------
+* Utility: Access token for high-frequency risk assessment APIs for maritime insurance underwriters, sovereign navies, and commercial fleets.
+* Governance: Decentralized physical infrastructure network (DePIN) validation for coastal radar nodes.
